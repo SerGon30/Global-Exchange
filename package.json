@@ -1,5 +1,6 @@
 {
   "name": "figma-make-app",
+  "homepage": "https://SerGon30.github.io/Global-Exchange/",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -10,6 +11,7 @@
     "format": "oxfmt"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "recharts": "^3.10.1"

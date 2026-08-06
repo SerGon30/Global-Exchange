@@ -8,6 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base:"/Global-Exchange/",
 
   resolve: {
     alias: {
